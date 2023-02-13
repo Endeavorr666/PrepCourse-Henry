@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba..
+Estoy aprendiendo a crear un repositorio desde GitHub
